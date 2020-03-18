@@ -8,4 +8,4 @@ For my sophomore grade level project (wearable device challenge) I created a dev
 # What The Device Does
 Our device uses two sensors, a heart pulse monitor, as well as an air quality / smoke sensor to collect data about the surrounding area the device user is in as well as the users heart rate. If the air quality sensor measures at a concentration of 1150+ parts per million (ppm), the first red LED will flash, signaling a harmful air quality. As for the heart rate monitor, if the user registers a heart rate of anywhere to 120 and above beats per minute (BPM), the second red LED will flash, signaling an abnormally high heart rate. 
 
-(Note: Keep in mind that certain values (ppm & BPM) are within retrospect of the data that the sensors collected, they are subject to change depending on the quality and lifespan of the sensor) 
+```(Note: Keep in mind that certain values (ppm & BPM) are within retrospect of the data that the sensors collected, they are subject to change depending on the quality and lifespan of the sensor) ```
