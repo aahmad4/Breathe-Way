@@ -10,4 +10,4 @@ Our device uses two sensors, a heart pulse monitor, as well as an air quality / 
 
 ![](devicePic.png)
 
-`Note: Keep in mind that certain values (ppm & BPM) are within retrospect of the data that the sensors collected, they are subject to change depending on the quality and lifespan of the sensor`
+(Note: Keep in mind that certain values (ppm & BPM) are within retrospect of the data that the sensors collected, they are subject to change depending on the quality and lifespan of the sensor)
