@@ -39,7 +39,7 @@ void setup()
 }
 
 
-//  Where the Magic Happens
+//  Main Functionality Loop
 void loop()
 {
 
