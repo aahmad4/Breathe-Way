@@ -1,5 +1,5 @@
 int pos = 0;
-const int gasPin = A0;
+const int gasPin = A0; 
 int gasValue = 0;
 int pulsePin = A5;                 // Pulse Sensor purple wire connected to analog pin A0
 int blinkPin = 3;                // pin to blink led at each beat
