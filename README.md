@@ -1,4 +1,4 @@
-# About The Project
+# About The Project 
 For my sophomore grade level project (wearable device challenge) I created a device using a smoke and heart sensor to detect hazardous air quality outdoors or to simply help someone stop smoking. The device is made with Arduino and coded with C++.
 
 ## What The Device Does
