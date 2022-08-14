@@ -1,11 +1,7 @@
 <h1 align="center">Breathe Way</h1> 
 
-<p align="center">
-Submission for the 2019 Wearable Device Challenge. An Arduino Uno device that uses data-based algorithms coded in C++ to flash signals when the user is in potential threat for smoke-involved danger.
-</p>
-
 ## About The Project 
-For my sophomore grade level project (wearable device challenge) I created a device using a smoke and heart sensor to detect hazardous air quality outdoors or to simply help someone stop smoking. The device is made with Arduino and coded with C++.
+During our Sophomore grade level project (wearable device challenge) my team and I created a device using a smoke and heart sensor to detect hazardous air quality outdoors or to simply help someone stop their smoking habits
 
 ## What The Device Does
 Our device uses two sensors, a heart pulse monitor, as well as an air quality / smoke sensor to collect data about the surrounding area the device user is in as well as the users heart rate. If the air quality sensor measures at a concentration of 1150+ parts per million (ppm), the first red LED will flash, signaling a harmful air quality. As for the heart rate monitor, if the user registers a heart rate of anywhere to 120 and above beats per minute (BPM), the second red LED will flash, signaling an abnormally high heart rate. 
@@ -15,8 +11,8 @@ Our device uses two sensors, a heart pulse monitor, as well as an air quality / 
 ![](devicePic.png)
 
 ## Repository Contents
-* The file [main.ino](https://github.com/aahmad4/Arduino-Smoke-Danger-Device/blob/master/main.ino) is the program, written in C++, which handles the logic with the arduino board, both sensors, and the 4 LED lights I used. 
-* The file [smokeDangerPoster.pdf](https://github.com/aahmad4/Arduino-Smoke-Danger-Device/blob/master/smokeDangerPoster.pdf) is the poster I created to go along with this project. The poster includes the data I collected through the C++ program and graphs to go with it. I collected individual data for each sensor to help with stable values I could later use to code my LED lights. The poster also includes several pictures of the development process of the device and descriptions of all the different attributes. The final prototype can be seen at the bottom of the poster. 
+* The file [main.ino](https://github.com/aahmad4/Arduino-Smoke-Danger-Device/blob/master/main.ino) is the program which handles the logic with the arduino board, both sensors, and the 4 LED lights we used. 
+* The file [smokeDangerPoster.pdf](https://github.com/aahmad4/Arduino-Smoke-Danger-Device/blob/master/smokeDangerPoster.pdf) is the poster we created to go along with this project. The poster includes the data we collected through the program and graphs to go with it. We collected individual data for each sensor to help with stable values we could later use to code the LED lights. The poster also includes several pictures of the development process of the device and descriptions of all the different attributes. The final prototype can be seen at the bottom of the poster. 
 
 ## Setup
 #### Clone
